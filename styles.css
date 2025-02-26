@@ -1,0 +1,34 @@
+
+nav ul li a {
+    color: #ffffff; /* White color for navigation links */
+    text-decoration: none;
+}
+
+/* Style for the footer paragraph */
+footer p {
+    color: #cccccc; /* Light gray color for footer text */
+}
+
+/* Additional styles to enhance appearance */
+nav {
+    background-color: #333; /* Dark background for navigation */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+footer {
+    background-color: #222; /* Dark background for footer */
+    text-align: center;
+    padding: 15px;
+}
